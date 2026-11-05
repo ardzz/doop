@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.14.0](https://github.com/kgoedecke/doop/compare/v0.13.0...v0.14.0) (2026-11-05)
+
+
+### Features
+
+* add Doop Cature extension and canvas paste import ([#454](https://github.com/kgoedecke/doop/issues/454)) ([#405](https://github.com/kgoedecke/doop/issues/405)) ([f404915](https://github.com/kgoedecke/doop/commit/f404915523a1142fd7d41f16579980bd5285f8a1))
+* **brand:** use Adobe's 2025 Photoshop app icon ([#407](https://github.com/kgoedecke/doop/issues/407)) ([58ce5cd](https://github.com/kgoedecke/doop/commit/58ce5cdec13b8b6c6ded6042eaaef0eaed93879e))
+
+
+### Bug Fixes
+
+* **pdf:** print each frame in a frame-sized iframe so no content is dropped ([#409](https://github.com/kgoedecke/doop/issues/409)) ([4358fb6](https://github.com/kgoedecke/doop/commit/4358fb66a9445422e17f154b99366f0617b9e087))
+
 ## [0.13.0](https://github.com/kgoedecke/doop/compare/v0.12.0...v0.13.0) (2026-11-04)
 
 
